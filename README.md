@@ -1,2 +1,2 @@
 # Hello Git
- Repositório de estudo Git e GitHub
+ Repositório de estudo Git e GitHub.
